@@ -1,5 +1,50 @@
 # book-search
 
+This is my Google Book Search app. It allows users to search for a book
+they like and it will show results for the books. It is deployed with Heroku.
+
+The Google Book Search can be accessed here:
+[Google Book Search App](https://warm-caverns-00341.herokuapp.com/)
+
+## Table of Contents
+1.) [Usage](#usage)
+
+2.) [Installation](#installation)
+
+3.) [Contact/Questions](#contact/questions)
+
+4.) [License](#license)
+
+## Usage
+
+To use this:
+
+1.) Download OR clone this repository
+
+2.) Run npm i to install dependencies
+
+3.) Run npm start to run the app in development mode
+
+![Home Screen](./client/public/assets/google-books-search.png)
+
+The Google Book Search can be accessed here:
+[Google Book Search App](https://warm-caverns-00341.herokuapp.com/)
+
+## Installation
+
+The user will need to have React, Axios, NodeJS, ExpressJS, Serve and Heroku. Dependencies are listed in package.json. To run the app, go inside Client directory and run npm run build. Be sure to npm i to install all dependencies!
+
+## Contact/Questions
+
+This repository is owned and built by:
+
+Abdinajib Liban - abdinajibliban - abdinajibliban@gmail.com
+
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
+
+MIT License
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
